@@ -1,7 +1,7 @@
 # UAV Autoland
 
-## Simulator
+## :cyclone: Simulator
 
-## Mission Planner
+## :cyclone: Mission Planner
 
-## Hardware and control
+## :cyclone: Hardware and control
